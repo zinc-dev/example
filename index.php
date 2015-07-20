@@ -3,5 +3,5 @@
 	
 	echo 'Hello';
 	
-	echo 'Homer loves beer !!';
+	echo 'Homer loves lots of beer !!';
 ?>
