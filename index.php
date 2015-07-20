@@ -1,5 +1,5 @@
 <?php
-	echo 'This is absolutely useless!';
+	echo 'This is absolutely useless! But not when you have beer';
 	
 	echo 'Hello';
 	
